@@ -7,7 +7,7 @@ body {
                 padding: 30px;
                 list-style-type: none;
                 text-align: center;
-                background-color: #D32929;
+                background-color: #84107E;
             }
             #navbar ul li {
                 display: inline;
@@ -15,12 +15,12 @@ body {
             #navbar ul li a {
                 text-decoration: none;
                 padding: .8em 3em;
-                color: #C35B5B;
+                color: Black;
                 background-color: white;
             }
             #navbar ul li a:hover {
-                color: white;
-                background-color: #C35B5B;
+                color: #84107E;
+                background-color: Black;
             }
 #body {
             background-color: white;
