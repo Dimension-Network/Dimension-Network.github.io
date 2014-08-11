@@ -20,10 +20,10 @@ body {
             }
             #navbar ul li a:hover {
                 color: #84107E;
-                background-color: Black;
+                background-color: #8C8C8C;
             }
 #body {
-            background-color: #4F4F4F;
+            background-color: white;
 }
 #navtext {
             text-size: 17px;
