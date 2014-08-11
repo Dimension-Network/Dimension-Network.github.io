@@ -1,6 +1,5 @@
 body {
             font-family:'Oswald', 'Source+Sans+Pro', serif;
-            background-color: white;
         }
 
 #navbar ul {
@@ -23,3 +22,15 @@ body {
                 color: white;
                 background-color: #C35B5B;
             }
+h1 {
+            background-color: white;
+}
+h2 {
+            background-color: white;
+}
+h3 {
+            background-color: white;
+}
+p {
+            background-color: white;
+}
