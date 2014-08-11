@@ -1,0 +1,24 @@
+body {
+            font-family:'Oswald', 'Source+Sans+Pro', serif;
+        }
+
+#navbar ul {
+                margin: 0;
+                padding: 30px;
+                list-style-type: none;
+                text-align: center;
+                background-color: #D32929;
+            }
+            #navbar ul li {
+                display: inline;
+            }
+            #navbar ul li a {
+                text-decoration: none;
+                padding: .8em 3em;
+                color: #C35B5B;
+                background-color: white;
+            }
+            #navbar ul li a:hover {
+                color: white;
+                background-color: #C35B5B;
+            }
