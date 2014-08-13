@@ -23,6 +23,7 @@ body {
 	display: inline-table;
 	font-size: 25px;
 	width: 80%;
+	text-align: center;
 }
 	#navbar nav ul:after {
 		content: ""; clear: both; display: block;
