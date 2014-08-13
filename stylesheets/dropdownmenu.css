@@ -14,7 +14,7 @@ nav ul ul {
 
 nav ul {
 	background: #84107E;
-	padding: 0 20px;  
+	padding: 20px;  
 	list-style: none;
 	position: relative;
 	display: inline-table;
@@ -27,7 +27,7 @@ nav ul {
 		float: left;
 	}
 		nav ul li:hover {
-			background: black;
+			background: #8C8C8C;
 		}
 			nav ul li:hover a {
 				color: #84107E;
