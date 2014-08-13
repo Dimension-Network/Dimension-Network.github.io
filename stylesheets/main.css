@@ -22,7 +22,7 @@ body {
 	position: relative;
 	display: inline-table;
 }
-	#navbar nav ul li #navbar nav ul:after {
+	#navbar nav ul li:after {
 		content: ""; clear: both; display: block;
 	}
 
@@ -65,7 +65,7 @@ body {
 #body {
             background-color: white;
 }
-#navtext {
+#navbar nav ul li #navtext {
             text-size: 20px;
 }
 #top {
