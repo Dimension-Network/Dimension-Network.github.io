@@ -28,3 +28,7 @@ body {
 #navtext {
             text-size: 17px;
 }
+#top {
+            background-color: transparent;
+            top: auto; 
+}
