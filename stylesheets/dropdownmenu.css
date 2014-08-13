@@ -27,7 +27,7 @@ nav ul {
 		float: left;
 	}
 		nav ul li:hover {
-			background: #84107E;
+			background: black;
 		}
 			nav ul li:hover a {
 				color: #84107E;
