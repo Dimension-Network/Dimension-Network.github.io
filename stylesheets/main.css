@@ -22,7 +22,7 @@ body {
 	position: relative;
 	display: inline-table;
 }
-	#navbar nav ul:after {
+	#navbar nav ul li #navbar nav ul:after {
 		content: ""; clear: both; display: block;
 	}
 
