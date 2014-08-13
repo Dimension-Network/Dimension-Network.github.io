@@ -1,27 +1,67 @@
 body {
             font-family:'Oswald', 'Source+Sans+Pro', serif;
         }
+nav {
+	margin: 100px auto; 
+	text-align: center;
+}
 
-#navbar ul {
-                margin: 0;
-                padding: 30px;
-                list-style-type: none;
-                text-align: center;
-                background-color: #84107E;
-            }
-            #navbar ul li {
-                display: inline;
-            }
-            #navbar ul li a {
-                text-decoration: none;
-                padding: .8em 3em;
-                color: Black;
-                background-color: #4F4F4F;
-            }
-            #navbar ul li a:hover {
-                color: #84107E;
-                background-color: #8C8C8C;
-            }
+nav ul ul {
+	display: none;
+}
+
+	nav ul li:hover > ul {
+		display: block;
+	}
+
+
+nav ul {
+	background: #4F4F4F;
+	padding: 0px 20px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+	nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+
+	nav ul li {
+		float: left;
+	}
+		nav ul li:hover {
+			background: #8C8C8C;
+		}
+			nav ul li:hover a {
+				color: #84107E;
+			}
+		
+		nav ul li a {
+			display: block; padding: 25px 40px;
+			color: black; text-decoration: none;
+		}
+			
+		
+	nav ul ul {
+		background: #5f6975; border-radius: 0px; padding: 0;
+		position: absolute; top: 100%;
+	}
+		nav ul ul li {
+			float: none; 
+			border-top: 1px solid #6b727c;
+			border-bottom: 1px solid #575f6a; position: relative;
+		}
+			nav ul ul li a {
+				padding: 15px 40px;
+				color: #fff;
+			}	
+				nav ul ul li a:hover {
+					background: #4b545f;
+				}
+		
+	nav ul ul ul {
+		position: absolute; left: 100%; top:0;
+	}
 #body {
             background-color: white;
 }
