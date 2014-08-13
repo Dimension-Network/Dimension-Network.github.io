@@ -17,11 +17,12 @@ body {
 
 #navbar nav ul {
 	background: #4F4F4F;
-	padding: 0px 70px;  
+	padding: 0px 20px;  
 	list-style: none;
 	position: relative;
 	display: inline-table;
 	font-size: 25px;
+	width: 80%;
 }
 	#navbar nav ul:after {
 		content: ""; clear: both; display: block;
