@@ -62,11 +62,11 @@ body {
 	#navbar nav ul ul ul {
 		position: absolute; left: 100%; top:0;
 	}
+	#navbar nav ul li a {
+            text-size: 50px;
+}
 #body {
             background-color: white;
-}
-#navbar nav ul li #navtext {
-            text-size: 50px;
 }
 #top {
             background-color: transparent;
