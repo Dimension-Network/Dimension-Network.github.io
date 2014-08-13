@@ -10,7 +10,7 @@ body {
 	display: none;
 }
 
-	nav ul li:hover > ul {
+	#navbar nav ul li:hover > ul {
 		display: block;
 	}
 
@@ -22,7 +22,7 @@ body {
 	position: relative;
 	display: inline-table;
 }
-	#navbar nav ul li:after {
+	#navbar nav ul:after {
 		content: ""; clear: both; display: block;
 	}
 
@@ -32,7 +32,7 @@ body {
 		#navbar nav ul li:hover {
 			background: #8C8C8C;
 		}
-			nav ul li:hover a {
+			#navbar nav ul li:hover a {
 				color: #84107E;
 			}
 		
