@@ -30,7 +30,9 @@ body {
 }
 #top {
             background-color: transparent;
-            top: auto; 
+            top: auto;
+            width: 80%;
+            heigth: 5px;
 }
 #bottom {
             background-color: #e6e9e9; 
