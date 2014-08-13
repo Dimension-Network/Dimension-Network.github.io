@@ -17,7 +17,7 @@ body {
 
 #navbar nav ul {
 	background: #4F4F4F;
-	padding: 0px 30px;  
+	padding: 0px 70px;  
 	list-style: none;
 	position: relative;
 	display: inline-table;
@@ -32,7 +32,6 @@ body {
 	}
 		#navbar nav ul li:hover {
 			background: #8C8C8C;
-			font-size: 25px;
 		}
 			#navbar nav ul li:hover a {
 				color: #84107E;
