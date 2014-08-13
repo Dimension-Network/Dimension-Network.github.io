@@ -1,7 +1,7 @@
 body {
             font-family:'Oswald', 'Source+Sans+Pro', serif;
         }
-nav {
+#navbar nav {
 	margin: 100px auto; 
 	text-align: center;
 }
@@ -17,7 +17,7 @@ nav {
 
 #navbar nav ul {
 	background: #4F4F4F;
-	padding: 0px 20px;  
+	padding: 0px 30px;  
 	list-style: none;
 	position: relative;
 	display: inline-table;
@@ -66,7 +66,7 @@ nav {
             background-color: white;
 }
 #navtext {
-            text-size: 17px;
+            text-size: 20px;
 }
 #top {
             background-color: transparent;
