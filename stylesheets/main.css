@@ -42,3 +42,6 @@ body {
             width: 100%; 
             padding: 10px;
 }
+#bottomtext {
+            text-size: 15px;
+}
