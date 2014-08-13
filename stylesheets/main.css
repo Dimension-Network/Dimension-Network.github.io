@@ -91,3 +91,7 @@ nav ul {
 #bottomtextname {
             text-size: 13px;
 }
+#top #logo {
+            position: relative; 
+            left: -8.3%;
+}
