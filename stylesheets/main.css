@@ -107,4 +107,5 @@ nav ul {
 }
 #staff tr td a {
 	color: black;
+	text-decoration: none;
 }
