@@ -1,6 +1,9 @@
 body {
             font-family:'Oswald', 'Source+Sans+Pro', serif;
 }
+nav #navbar {
+	width: 80%;
+}
 nav {
 	text-align: center;
 }
@@ -21,7 +24,6 @@ nav ul {
 	position: relative;
 	display: inline-table;
 	font-size: 25px;
-	width: 80%;
 }
 	nav ul:after {
 		content: ""; clear: both; display: block;
