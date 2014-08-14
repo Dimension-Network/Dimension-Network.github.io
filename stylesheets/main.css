@@ -98,3 +98,7 @@ nav ul {
             position: relative; 
             left: -8.3%;
 }
+#nameplater {
+	margin: 0;
+	border: 2 solid black;
+}
