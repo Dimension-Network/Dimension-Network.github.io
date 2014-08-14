@@ -105,3 +105,6 @@ nav ul {
 #staff {
 	border-spacing: 10px;
 }
+#staff tr td a {
+	color: black;
+}
