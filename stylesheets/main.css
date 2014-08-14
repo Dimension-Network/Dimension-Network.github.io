@@ -21,10 +21,10 @@ nav ul {
 	position: relative;
 	display: inline-table;
 	font-size: 25px;
+	width: 80%;
 }
 	nav ul:after {
 		content: ""; clear: both; display: block;
-	width: 80%;
 	}
 
 	nav ul li {
