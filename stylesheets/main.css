@@ -3,7 +3,6 @@ body {
 }
 nav {
 	text-align: center;
-	width: 80%;
 }
 
 nav ul ul {
@@ -25,6 +24,7 @@ nav ul {
 }
 	nav ul:after {
 		content: ""; clear: both; display: block;
+	width: 80%;
 	}
 
 	nav ul li {
