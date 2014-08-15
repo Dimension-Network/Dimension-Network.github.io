@@ -121,3 +121,7 @@ nav ul {
 	position: relative;
 	top: 52px;
 }
+#profilebio p {
+	color: black;
+	font-size: 20;
+}
