@@ -115,5 +115,9 @@ nav ul {
 #profilebio {
 	color: lightgray;
 	font-size: 20px;
-	margin-right: .01em;
+	margin-right: 300px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	position: relative;
+	top: 100px;
 }
