@@ -112,3 +112,7 @@ nav ul {
 #profiletitle {
 	font-size: 30px;
 }
+#profilebio {
+	color: lightgray;
+	font-size: 20px;
+}
